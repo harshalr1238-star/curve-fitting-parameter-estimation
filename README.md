@@ -43,7 +43,7 @@ The given ranges for the unknown parameters are:
 - `-0.05 < M < 0.05`
 - `0 < X < 100`
 
-The parameter `t` is taken from 6 to 60.
+The parameter `t` is taken in the range '6 < t < 60'.
 
 ## 4. Dataset
 
